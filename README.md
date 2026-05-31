@@ -52,7 +52,10 @@ I enjoy building practical tools, automation scripts, and continuously exploring
       </picture>
     </td>
     <td align="center" style="border: none; background: transparent;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zoooi9918&theme=radical" height="150" alt="Profile summary" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zoooi9918&theme=radical" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zoooi9918&theme=default" height="150" alt="Profile summary" />
+      </picture>
     </td>
   </tr>
 </table>
