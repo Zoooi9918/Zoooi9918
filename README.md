@@ -21,7 +21,7 @@ I enjoy building practical tools, automation scripts, and continuously exploring
 
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,python,js,ts,go,cpp,c,html,css,react,nodejs,express,mysql,postgres,mongodb,firebase,redis,docker,kubernetes,aws,gcp,git,github,gitlab,linux,ubuntu,bash,vim,vscode,idea,postman,figma,figma&perline=11" />
+        <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,html,react,nodejs,postgres,mongodb,docker,git,github,gitlab,linux,vscode,figma,postman&perline=9" />
     </a>
 </div>
 
