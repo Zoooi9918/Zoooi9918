@@ -60,14 +60,14 @@ I enjoy building practical tools, automation scripts, and continuously exploring
 ### 🐍 The Contribution Snake (Running Through My Commits)
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zoooi9918/Zoooi9918/profile-assets/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Zoooi9918/Zoooi9918/profile-assets/github-snake.svg" alt="Contribution snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zoooi9918/Zoooi9918/profile-snake/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Zoooi9918/Zoooi9918/profile-snake/github-snake.svg" alt="Contribution snake" />
   </picture>
 </div>
 
 ### 📅 My Year in Code (3D Isometric Calendar)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zoooi9918/Zoooi9918/profile-assets/metrics.plugin.isocalendar.svg" alt="Isocalendar" />
+  <img src="https://raw.githubusercontent.com/Zoooi9918/Zoooi9918/profile-metrics/metrics.plugin.isocalendar.svg" alt="Isocalendar" />
 </div>
 
 <br>

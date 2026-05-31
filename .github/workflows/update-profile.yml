@@ -31,22 +31,23 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
 
-      - name: Generate 3D Calendar
+      - name: Push Snake to profile-snake branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: profile-snake
+          build_dir: dist
+          commit_message: "Update dynamic snake widgets"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate 3D Calendar and Push
         uses: lowlighter/metrics@latest
         with:
-          filename: dist/metrics.plugin.isocalendar.svg
+          filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.GH_PAT }}
           user: Zoooi9918
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          output_action: none
-
-      - name: Push all assets to profile-assets branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: profile-assets
-          build_dir: dist
-          commit_message: "Update dynamic profile widgets"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: profile-metrics
+          committer_message: "Update 3D Calendar widget"
