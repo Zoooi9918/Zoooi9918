@@ -25,12 +25,14 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3a7ce2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
 
       - name: Generate Achievements
         uses: lowlighter/metrics@latest
         with:
           filename: dist/achievements.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
           user: Zoooi9918
           base: ""
           plugin_achievements: yes
@@ -40,11 +42,11 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: dist/metrics.plugin.isocalendar.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
           user: Zoooi9918
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
 
       - name: Push to profile-assets branch
         uses: crazy-max/ghaction-github-pages@v4
