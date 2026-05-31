@@ -63,16 +63,16 @@
 ## 🏆 Achievements
 <p align="center">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Zoooi9918&theme=algolia&no-frame=true&row=1&column=6" />
-		<img src="https://github-profile-trophy.vercel.app/?username=Zoooi9918&theme=flat&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Zoooi9918&theme=radical&no-bg=true&row=1&column=6" />
+		<img src="https://github-profile-trophy.vercel.app/?username=Zoooi9918&theme=flat&no-bg=true&row=1&column=6" alt="GitHub trophies" />
 	</picture>
 </p>
 
 ## 📈 Metrics
 <p align="center">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zoooi9918/Zoooi9918/main/github-metrics-dark.svg" />
-		<img src="https://raw.githubusercontent.com/Zoooi9918/Zoooi9918/main/github-metrics.svg" alt="GitHub metrics" />
+		<source media="(prefers-color-scheme: dark)" srcset="https://metrics.lecoq.io/Zoooi9918?template=classic&config.theme=dark" />
+		<img src="https://metrics.lecoq.io/Zoooi9918?template=classic&config.theme=light" alt="GitHub metrics" />
 	</picture>
 </p>
 
@@ -84,29 +84,7 @@
 	</picture>
 </p>
 
-## 💬 Inspiration
-<p align="center">
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-		<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev quote" />
-	</picture>
-</p>
-<p align="center">
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?theme=dark" />
-		<img src="https://readme-jokes.vercel.app/api?theme=default" alt="Readme joke" />
-	</picture>
-</p>
-
-## 🐍 Contribution Snake
-<p align="center">
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zoooi9918/Zoooi9918/output/github-contribution-grid-snake-dark.svg" />
-		<img src="https://raw.githubusercontent.com/Zoooi9918/Zoooi9918/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-	</picture>
-</p>
-
-## 🔗 Connect
+##  Connect
 <p align="center">
 	<a href="https://github.com/Zoooi9918"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 	<a href="https://www.linkedin.com/in/ooichoonchong"><img src="https://img.shields.io/badge/LinkedIn-ff7a18?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
