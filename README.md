@@ -25,6 +25,14 @@
 <p align="left">
 	<img src="https://skillicons.dev/icons?i=java,python,js,git,github,docker,linux&perline=7" alt="tech stack icons" />
 </p>
+<p align="left">
+	<img src="https://img.shields.io/badge/Java-ff7a18?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+	<img src="https://img.shields.io/badge/Python-ff4e88?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+	<img src="https://img.shields.io/badge/JavaScript-ffb347?style=for-the-badge&logo=javascript&logoColor=1f1f1f" alt="JavaScript" />
+	<img src="https://img.shields.io/badge/Docker-ff7a18?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+	<img src="https://img.shields.io/badge/Git-ff4e88?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+	<img src="https://img.shields.io/badge/Linux-ffb347?style=for-the-badge&logo=linux&logoColor=1f1f1f" alt="Linux" />
+</p>
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -44,11 +52,57 @@
 	</picture>
 </p>
 
+## 📌 Profile Summary
+<p align="center">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zoooi9918&theme=github_dark" />
+		<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zoooi9918&theme=github" alt="Profile summary" />
+	</picture>
+</p>
+
+## 🏆 Achievements
+<p align="center">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Zoooi9918&theme=algolia&no-frame=true&row=1&column=6" />
+		<img src="https://github-profile-trophy.vercel.app/?username=Zoooi9918&theme=flat&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+	</picture>
+</p>
+
+## 📈 Metrics
+<p align="center">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zoooi9918/Zoooi9918/main/github-metrics-dark.svg" />
+		<img src="https://raw.githubusercontent.com/Zoooi9918/Zoooi9918/main/github-metrics.svg" alt="GitHub metrics" />
+	</picture>
+</p>
+
 ## 📈 Activity Graph
 <p align="center">
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zoooi9918&bg_color=0d1117&color=ffb347&line=ff7a18&point=ff4e88&area=true&area_color=ff4e8833&hide_border=true" />
 		<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zoooi9918&bg_color=ffffff&color=ff7a18&line=ff4e88&point=ffb347&area=true&area_color=ffb34733&hide_border=true" alt="Activity graph" />
+	</picture>
+</p>
+
+## 💬 Inspiration
+<p align="center">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+		<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev quote" />
+	</picture>
+</p>
+<p align="center">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?theme=dark" />
+		<img src="https://readme-jokes.vercel.app/api?theme=default" alt="Readme joke" />
+	</picture>
+</p>
+
+## 🐍 Contribution Snake
+<p align="center">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zoooi9918/Zoooi9918/output/github-contribution-grid-snake-dark.svg" />
+		<img src="https://raw.githubusercontent.com/Zoooi9918/Zoooi9918/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 	</picture>
 </p>
 

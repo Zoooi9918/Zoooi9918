@@ -1,0 +1,41 @@
+name: Generate GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics (light)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Zoooi9918
+          template: classic
+          filename: github-metrics.svg
+          base: header, activity, community, repositories
+          plugins: achievements, languages
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+      - name: Generate metrics (dark)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Zoooi9918
+          template: classic
+          theme: dark
+          filename: github-metrics-dark.svg
+          base: header, activity, community, repositories
+          plugins: achievements, languages
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
