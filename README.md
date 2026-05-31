@@ -60,15 +60,26 @@
 	</picture>
 </p>
 
-## 🏆 Achievements
+## 🏆 Achievements & Milestones
 <p align="center">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://metrics.lecoq.io/Zoooi9918?base=0&plugin_achievements=yes&plugin_achievements_display=compact&config.theme=dark" />
-		<img src="https://metrics.lecoq.io/Zoooi9918?base=0&plugin_achievements=yes&plugin_achievements_display=compact&config.theme=light" alt="GitHub achievements" />
+		<source media="(prefers-color-scheme: dark)" srcset="https://github.com/Zoooi9918/Zoooi9918/blob/profile-assets/achievements.svg?raw=true" />
+		<img src="https://github.com/Zoooi9918/Zoooi9918/blob/profile-assets/achievements.svg?raw=true" alt="GitHub achievements" />
 	</picture>
 </p>
 
-## 📈 Metrics
+## 🐍 Contribution Snake
+<p align="center">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://github.com/Zoooi9918/Zoooi9918/blob/profile-assets/github-snake-dark.svg?raw=true" />
+		<img src="https://github.com/Zoooi9918/Zoooi9918/blob/profile-assets/github-snake.svg?raw=true" alt="Contribution snake" />
+	</picture>
+</p>
+
+## 📈 Activity & Metrics
+<p align="center">
+	<img src="https://github.com/Zoooi9918/Zoooi9918/blob/profile-assets/metrics.plugin.isocalendar.svg?raw=true" alt="Isocalendar" />
+</p>
 <p align="center">
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="https://metrics.lecoq.io/Zoooi9918?template=classic&config.theme=dark" />
@@ -76,7 +87,7 @@
 	</picture>
 </p>
 
-## 📈 Activity Graph
+## 📊 Activity Graph
 <p align="center">
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zoooi9918&bg_color=0d1117&color=ffb347&line=ff7a18&point=ff4e88&area=true&area_color=ff4e8833&hide_border=true" />
