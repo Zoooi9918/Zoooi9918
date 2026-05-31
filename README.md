@@ -63,8 +63,8 @@
 ## 🏆 Achievements
 <p align="center">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Zoooi9918&theme=radical&no-bg=true&row=1&column=6" />
-		<img src="https://github-profile-trophy.vercel.app/?username=Zoooi9918&theme=flat&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+		<source media="(prefers-color-scheme: dark)" srcset="https://metrics.lecoq.io/Zoooi9918?base=0&plugin_achievements=yes&plugin_achievements_display=compact&config.theme=dark" />
+		<img src="https://metrics.lecoq.io/Zoooi9918?base=0&plugin_achievements=yes&plugin_achievements_display=compact&config.theme=light" alt="GitHub achievements" />
 	</picture>
 </p>
 
