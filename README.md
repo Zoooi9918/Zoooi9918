@@ -63,22 +63,21 @@
 ## 🏆 Achievements & Milestones
 <p align="center">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github.com/Zoooi9918/Zoooi9918/blob/profile-assets/achievements.svg?raw=true" />
-		<img src="https://github.com/Zoooi9918/Zoooi9918/blob/profile-assets/achievements.svg?raw=true" alt="GitHub achievements" />
+		<img src="https://raw.githubusercontent.com/Zoooi9918/Zoooi9918/main/dist/achievements.svg" alt="GitHub achievements" />
 	</picture>
 </p>
 
 ## 🐍 Contribution Snake
 <p align="center">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github.com/Zoooi9918/Zoooi9918/blob/profile-assets/github-snake-dark.svg?raw=true" />
-		<img src="https://github.com/Zoooi9918/Zoooi9918/blob/profile-assets/github-snake.svg?raw=true" alt="Contribution snake" />
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zoooi9918/Zoooi9918/profile-assets/github-snake-dark.svg" />
+		<img src="https://raw.githubusercontent.com/Zoooi9918/Zoooi9918/profile-assets/github-snake.svg" alt="Contribution snake" />
 	</picture>
 </p>
 
 ## 📈 Activity & Metrics
 <p align="center">
-	<img src="https://github.com/Zoooi9918/Zoooi9918/blob/profile-assets/metrics.plugin.isocalendar.svg?raw=true" alt="Isocalendar" />
+	<img src="https://raw.githubusercontent.com/Zoooi9918/Zoooi9918/main/dist/metrics.plugin.isocalendar.svg" alt="Isocalendar" />
 </p>
 <p align="center">
 	<picture>
